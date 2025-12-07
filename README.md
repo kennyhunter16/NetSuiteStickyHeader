@@ -29,3 +29,9 @@ You will **always** know exactly which customer, order, or item you are working 
 * **Faster** record processing.
 * **Reduced** mental load and frustration.
 * **Improved** data accuracy.
+
+## 🚀 Get the Extension Now!
+
+Click the link below to add the **NetSuite Sticky Header** to Chrome and start saving time immediately.
+
+**[ADD TO CHROME - DOWNLOAD HERE](https://chromewebstore.google.com/detail/netsuite-sticky-header/gbpohlmeengkbmnpfjdafjohjigejjfe?authuser=0&hl=en)**
